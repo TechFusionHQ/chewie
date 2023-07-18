@@ -13,10 +13,10 @@ dependencies:
   flutter:
     sdk: flutter
   provider: ^6.0.3
-  video_player:
-    git:
-      url: git@github.com:TechFusionHQ/packages.git
-      path: packages/video_player/video_player
+  video_player: ^2.4.7
+  #   git:
+  #     url: git@github.com:TechFusionHQ/packages.git
+  #     path: packages/video_player/video_player
   wakelock: ^0.6.2
 
 dev_dependencies:
